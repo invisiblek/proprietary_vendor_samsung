@@ -92,8 +92,13 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/jflte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
         vendor/samsung/jflte/proprietary/bin/time_daemon:system/bin/time_daemon \
         vendor/samsung/jflte/proprietary/lib/libtime_genoff.so:system/lib/libtime_genoff.so \
-        vendor/samsung/jflte/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
+        vendor/samsung/jflte/proprietary/app/com.qualcomm.location.apk:system/app/com.qualcomm.location.apk \
+        vendor/samsung/jflte/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
         vendor/samsung/jflte/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+        vendor/samsung/jflte/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
+        vendor/samsung/jflte/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
+        vendor/samsung/jflte/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
+        vendor/samsung/jflte/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
         vendor/samsung/jflte/proprietary/lib/libsensirion_j1.so:system/lib/libsensirion_j1.so \
         vendor/samsung/jflte/proprietary/lib/libsam.so:system/lib/libsam.so \
         vendor/samsung/jflte/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
