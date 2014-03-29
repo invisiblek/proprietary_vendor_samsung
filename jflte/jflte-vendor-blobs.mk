@@ -189,7 +189,6 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/jflte/proprietary/etc/wifi/nvram_net.txt_semco3rd:system/etc/wifi/nvram_net.txt_semco3rd \
         vendor/samsung/jflte/proprietary/etc/wifi/nvram_net.txt_semco3rd_a0:system/etc/wifi/nvram_net.txt_semco3rd_a0 \
         vendor/samsung/jflte/proprietary/etc/wifi/nvram_net.txt_semcosh:system/etc/wifi/nvram_net.txt_semcosh \
-        vendor/samsung/jflte/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
         vendor/samsung/jflte/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
         vendor/samsung/jflte/proprietary/bin/qseecomd:system/bin/qseecomd \
         vendor/samsung/jflte/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
